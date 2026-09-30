@@ -1,8 +1,31 @@
-# React + Vite
+# Hotel / Motel Booking UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- repo-intro:start -->
+**Project snapshot:** A React + Vite hotel-booking interface experiment focused on room presentation, selection flows, pricing interactions, and responsive frontend composition.
 
-Currently, two official plugins are available:
+**What it demonstrates:** React · Vite · component state · booking-flow UX · responsive UI.
+<!-- repo-intro:end -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Purpose
+
+This project is a focused frontend build rather than a production reservation system. It demonstrates the transition from small React exercises into multi-step product interfaces.
+
+## Stack
+
+- React 18
+- Vite
+- JavaScript
+- CSS
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Production build
+
+```bash
+npm run build
+```
